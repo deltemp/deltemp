@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning NextJS 13 / Node.JS / Elixir / MongoDB
 - 📫 How to reach me: deltemp@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltemp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
