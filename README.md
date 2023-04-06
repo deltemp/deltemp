@@ -13,7 +13,7 @@
     </td>
   </tr>
   <tr>
-    <td>:mailbox_with_no_mail:&nbsp;&nbsp;How to reach me: deltemp@hotmail.com</td>
+    <td>:mailbox_with_no_mail:&nbsp;&nbsp;How to reach me: <a href="mailto:deltemp@hotmail.com">deltemp@hotmail.com</a></td>
   </tr>
   <tr>
     <td>:iphone:&nbsp;&nbsp;Or just send me a <a href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a> right now!</td>
