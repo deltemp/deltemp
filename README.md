@@ -2,7 +2,6 @@
 <table>
   <tr>
     <td>🔭 I’m currently working on <a href="https://laravel.com/docs/10.x">Laravel 10</a> modules.</td>
-    <td rowspan="0">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltemp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</td>
   </tr>
   <tr>
     <td>
@@ -21,3 +20,5 @@
   </tr>
 </table>
 
+# Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltemp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
