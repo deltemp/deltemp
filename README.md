@@ -45,7 +45,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title"Python" />
 </a>
 <a href="https://react.dev/reference/react">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title"React" />
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title"React" />
 </a>
 <a href="https://nextjs.org/docs">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title"Next.js" />
