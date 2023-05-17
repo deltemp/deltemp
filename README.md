@@ -1,5 +1,6 @@
 # Great to meet you! I'm Nelson, Web Developer.
 
+<br />
 <h1 style="margin: 3rem 0 0 0; color: #555;"><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/terminal.svg" style="margin: 0 1rem -1rem 0;" />I’m currently working with...</h1>
 <a href="https://dev.mysql.com/doc/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -36,6 +37,8 @@
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </a>
+<br />
+<br />
 <h1 style="margin: 3rem 0 0 0;"><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/study-certificate.svg" style="margin: 0 1rem -1rem 0;" />I’m studying...</h1>
 <a href="https://docs.python.org/3/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -52,11 +55,11 @@
 <a href="https://www.mongodb.com/docs/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </a>
+<br />
+<br />
 <h1 style="margin: 3rem 0 0 0;"><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/at.svg" style="margin: 0 1rem -1rem 0;" />Contact me!</h1>
 <p>:mailbox_with_no_mail: How to reach me: <a href="mailto:deltemp@hotmail.com">deltemp@hotmail.com</a></p>
 <p>:iphone:&nbsp;&nbsp;Or just send me a <a href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a> right now!</p>
-<br />
-  
-<h1 style="margin: 3rem 0 0 0;"><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/code.svg" style="margin: 0 1rem -1rem 0;" />Top Languages</h1>
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/code.svg" style="margin: 0 1rem -1rem 0;" />Top Languages</h1>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltemp&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
