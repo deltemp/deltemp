@@ -52,7 +52,7 @@
 <a href="https://www.mongodb.com/docs/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </a>
-<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/study-certificate.svg" /> Contact me!</h1>
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/at.svg" style="margin-bottom: -15px; margin-right: 10px;" /> Contact me!</h1>
 :mailbox_with_no_mail: How to reach me: <a href="mailto:deltemp@hotmail.com">deltemp@hotmail.com</a>
 <br />
 <br />
