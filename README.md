@@ -1,24 +1,63 @@
 # Great to meet you! I'm Nelson, Web Developer.
-<table>
-  <tr>
-    <td>:hammer_and_wrench:&nbsp;&nbsp;I’m currently working on <a href="https://laravel.com/docs/10.x">Laravel 10</a> modules.</td>
-  </tr>
-  <tr>
-    <td>
-      :books:&nbsp;&nbsp;I’m currently studying 
-      <a href="https://nextjs.org/docs">NextJS 13</a> / 
-      <a href="https://nodejs.org/en/docs">Node.JS</a> / 
-      <a href="https://elixir-lang.org/docs.html">Elixir</a> / 
-      <a href="https://www.mongodb.com/docs/">MongoDB</a>
-    </td>
-  </tr>
-  <tr>
-    <td>:mailbox_with_no_mail:&nbsp;&nbsp;How to reach me: <a href="mailto:deltemp@hotmail.com">deltemp@hotmail.com</a></td>
-  </tr>
-  <tr>
-    <td>:iphone:&nbsp;&nbsp;Or just send me a <a href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a> right now!</td>
-  </tr>
-</table>
 
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/terminal.svg" /> I’m currently working with...</h1>
+<a href="https://dev.mysql.com/doc/">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</a>
+<a href="https://laravel.com/docs/10.x">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+</a>
+<a href="https://nodejs.org/en/docs">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a>
+<a href="https://github.com/deltemp/">
+  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" />
+</a>
+<a href="https://laravel-livewire.com/docs/">
+  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/logo-livewire.svg" />
+</a>
+<a href="https://vuejs.org/guide/introduction.html">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+</a>
+<a href="https://angular.io/docs">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+</a>
+<a href="https://api.jquery.com/">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+</a>
+<a href="https://github.com/deltemp/">
+  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" />
+<a href="https://www.figma.com">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</a>
+<a href="https://sass-lang.com/documentation/">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</a>
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</a>
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/study-certificate.svg" /> I’m currently studying...</h1>
+<a href="https://docs.python.org/3/">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+<a href="https://nextjs.org/docs">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</a>
+<a href="https://nodejs.org/en/docs">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a>
+<a href="https://elixir-lang.org/docs.html">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+</a>
+<a href="https://www.mongodb.com/docs/">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</a>
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/study-certificate.svg" /> Contact me!</h1>
+:mailbox_with_no_mail: How to reach me: <a href="mailto:deltemp@hotmail.com">deltemp@hotmail.com</a>
+<br />
+<br />
+:iphone:&nbsp;&nbsp;Or just send me a <a href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a> right now!
+<br />
+  
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltemp&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
