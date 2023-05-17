@@ -11,7 +11,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
 <a href="https://github.com/deltemp/">
-  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin-right: 1rem;" />
+  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin: 0 1rem;" />
 </a>
 <a href="https://laravel-livewire.com/docs/">
   <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/logo-livewire.svg" />
