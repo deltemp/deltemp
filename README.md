@@ -1,6 +1,6 @@
 # Great to meet you! I'm Nelson, Web Developer.
 
-<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/terminal.svg" /> I’m currently working with...</h1>
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/terminal.svg" style="margin: 0 1rem -1rem 0;" /> I’m currently working with...</h1>
 <a href="https://dev.mysql.com/doc/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </a>
@@ -11,7 +11,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
 <a href="https://github.com/deltemp/">
-  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" />
+  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin-right: 1rem;" />
 </a>
 <a href="https://laravel-livewire.com/docs/">
   <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/logo-livewire.svg" />
@@ -26,7 +26,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 </a>
 <a href="https://github.com/deltemp/">
-  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" />
+  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin-right: 1rem;" />
 <a href="https://www.figma.com">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </a>
@@ -36,7 +36,7 @@
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </a>
-<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/study-certificate.svg" /> I’m currently studying...</h1>
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/study-certificate.svg" style="margin: 0 1rem -1rem 0;" /> I’m currently studying...</h1>
 <a href="https://docs.python.org/3/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
@@ -52,7 +52,7 @@
 <a href="https://www.mongodb.com/docs/">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </a>
-<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/at.svg" style="margin-bottom: -15px; margin-right: 10px;" /> Contact me!</h1>
+<h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/at.svg" style="margin: 0 1rem -1rem 0;" /> Contact me!</h1>
 :mailbox_with_no_mail: How to reach me: <a href="mailto:deltemp@hotmail.com">deltemp@hotmail.com</a>
 <br />
 <br />
