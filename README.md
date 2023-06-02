@@ -12,7 +12,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title"Node.js" />
 </a>
 <a href="https://github.com/deltemp/">
-  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
+  <img width="78" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
 </a>
 <a href="https://laravel-livewire.com/docs/">
   <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/logo-livewire.svg" alt="Livewire" title"Livewire" />
@@ -27,7 +27,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" title"jQuery" />
 </a>
 <a href="https://github.com/deltemp/">
-  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
+  <img width="78" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
 </a>
 <a href="https://www.figma.com">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title"Figma" />
