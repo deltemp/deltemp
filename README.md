@@ -48,7 +48,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title"React" />
 </a>
 <a href="https://nextjs.org/docs">
-  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/nextjs.svg" alt="Next.js" title"Next.js" />
+  <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/next.js.svg" alt="Next.js" title"Next.js" />
 </a>
 <a href="https://nodejs.org/en/docs">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title"Node.js" />
