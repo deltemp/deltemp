@@ -1,5 +1,5 @@
 <h1>Great to meet you! I'm Nelson, Web Developer.</h1>
-<p align="left">:heart: :floppy_disk: 20+ yrs of love for coding and cutting edge IT.</p>
+<h4>:heart: :floppy_disk: 20+ yrs of love for coding and cutting edge IT.</h4>
 <br />
 <h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/terminal.svg" style="margin: 0 1rem -1rem 0;" />I’m currently working with...</h1>
 <a href="https://dev.mysql.com/doc/">
