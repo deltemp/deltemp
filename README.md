@@ -8,9 +8,7 @@
 <a href="https://laravel.com/docs/10.x">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" title"Laravel" />
 </a>
-<a href="https://nodejs.org/en/docs">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title"Node.js" />
-</a>
+<a href="https://nodejs.org/en/docs"><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title"Node.js" /></a>
 <a href="https://github.com/deltemp/">
   <img width="78" height="48" src="https://github.com/deltemp/repo/blob/main/repo/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
 </a>
