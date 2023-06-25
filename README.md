@@ -12,7 +12,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title"Node.js" />
 </a>
 <a href="https://github.com/deltemp/">
-  <img width="78" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
+  <img width="78" height="48" src="https://github.com/deltemp/repo/blob/main/repo/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
 </a>
 <a href="https://laravel-livewire.com/docs/">
   <img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/logo-livewire.svg" alt="Livewire" title"Livewire" />
@@ -27,7 +27,7 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" title"jQuery" />
 </a>
 <a href="https://github.com/deltemp/">
-  <img width="78" height="48" src="https://psicoplus.com.br/images/repo/svg/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
+  <img width="78" height="48" src="https://github.com/deltemp/repo/blob/main/repo/arrow-right.svg" style="margin: 0 1rem 0 1rem;" />
 </a>
 <a href="https://www.figma.com">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title"Figma" />
@@ -63,7 +63,7 @@
 <br />
 <h1 style="margin: 3rem 0 0 0;"><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/at.svg" style="margin: 0 1rem -1rem 0;" />Contact me!</h1>
 <p align="left">:mailbox_with_no_mail: How to reach me: <a href="mailto:deltemp@hotmail.com">deltemp@hotmail.com</a></p>
-<p align="left">:iphone:&nbsp;&nbsp;Or just send me a <a href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a> right now!</p>
+<p align="left">:iphone:&nbsp;&nbsp;Or just send me a <a href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a> right now!</p><img width="48" height="48" src="[https://psicoplus.com.br/images/repo/svg/code.svg](https://github.com/deltemp/deltemp/blob/main/WhatsApp.svg)" style="margin: 0 1rem -1rem 0;" />
 <h1><img width="48" height="48" src="https://psicoplus.com.br/images/repo/svg/code.svg" style="margin: 0 1rem -1rem 0;" />Top Languages</h1>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deltemp&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
