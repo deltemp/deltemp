@@ -13,7 +13,7 @@
                 <h1>Front-end</h1>
             </td>
             <td>
-                <a target="_new" href="https://react.dev/reference/react">
+                <a target="_blank" href="https://react.dev/reference/react">
                     <img
                         width="48"
                         height="48"
@@ -24,7 +24,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://laravel-livewire.com/docs/">
+                <a target="_blank" href="https://laravel-livewire.com/docs/">
                     <img
                         width="48"
                         height="48"
@@ -35,7 +35,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://vuejs.org/guide/introduction.html">
+                <a target="_blank" href="https://vuejs.org/guide/introduction.html">
                     <img
                         width="48"
                         height="48"
@@ -46,7 +46,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://angular.io/docs">
+                <a target="_blank" href="https://angular.io/docs">
                     <img
                         width="48"
                         height="48"
@@ -57,7 +57,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://api.jquery.com/">
+                <a target="_blank" href="https://api.jquery.com/">
                     <img
                         width="48"
                         height="48"
@@ -76,7 +76,7 @@
                 <h1>Styling</h1>
             </td>
             <td>
-                <a target="_new" href="https://www.figma.com">
+                <a target="_blank" href="https://www.figma.com">
                     <img
                         width="48"
                         height="48"
@@ -87,7 +87,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://sass-lang.com/documentation/">
+                <a target="_blank" href="https://sass-lang.com/documentation/">
                     <img
                         width="48"
                         height="48"
@@ -98,7 +98,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+                <a target="_blank" href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
                     <img
                         width="48"
                         height="48"
@@ -109,7 +109,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://tailwindcss.com/docs">
+                <a target="_blank" href="https://tailwindcss.com/docs">
                     <img
                         width="48"
                         height="48"
@@ -120,7 +120,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://styled-components.com/docs">
+                <a target="_blank" href="https://styled-components.com/docs">
                     <img
                         width="48"
                         height="48"
@@ -136,7 +136,7 @@
                 <h1>Back-end</h1>
             </td>
             <td>
-                <a target="_new" href="https://dev.mysql.com/doc/">
+                <a target="_blank" href="https://dev.mysql.com/doc/">
                     <img
                         width="48"
                         height="48"
@@ -147,7 +147,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://www.postgresql.org/docs/">
+                <a target="_blank" href="https://www.postgresql.org/docs/">
                     <img
                         width="48"
                         height="48"
@@ -158,7 +158,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://laravel.com/docs/10.x">
+                <a target="_blank" href="https://laravel.com/docs/10.x">
                     <img
                         width="48"
                         height="48"
@@ -169,7 +169,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://nodejs.org/en/docs">
+                <a target="_blank" href="https://nodejs.org/en/docs">
                     <img
                         width="48"
                         height="48"
@@ -180,7 +180,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://docs.nestjs.com/">
+                <a target="_blank" href="https://docs.nestjs.com/">
                     <img
                         width="48"
                         height="48"
@@ -205,7 +205,7 @@
     <tbody>
         <tr>
             <td>
-                <a target="_new" href="https://gitlab.com/">
+                <a target="_blank" href="https://gitlab.com/">
                     <img
                         width="48"
                         height="48"
@@ -216,7 +216,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://github.com">
+                <a target="_blank" href="https://github.com">
                     <img
                         width="48"
                         height="48"
@@ -227,7 +227,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://developer.hashicorp.com/terraform">
+                <a target="_blank" href="https://developer.hashicorp.com/terraform">
                     <img
                         width="48"
                         height="48"
@@ -238,7 +238,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://www.docker.com">
+                <a target="_blank" href="https://www.docker.com">
                     <img
                         width="48"
                         height="48"
@@ -249,7 +249,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://kubernetes.io/docs/home/">
+                <a target="_blank" href="https://kubernetes.io/docs/home/">
                     <img
                         width="48"
                         height="48"
@@ -260,7 +260,7 @@
                 </a>
             </td>
             <td>
-                <a target="_new" href="https://helm.sh/docs/">
+                <a target="_blank" href="https://helm.sh/docs/">
                     <img
                         width="48"
                         height="48"
@@ -280,11 +280,11 @@
 </h1>
 <p align="left">
     :mailbox_with_no_mail: How to reach me at
-    <a target="_new" href="mailto:nelson@guerreiro.dev.br">nelson@guerreiro.dev.br</a>
+    <a target="_blank" href="mailto:nelson@guerreiro.dev.br">nelson@guerreiro.dev.br</a>
 </p>
 <p align="left">
     <img width="20" height="20" src="https://github.com/deltemp/repo/blob/main/svg/whatsapp.svg">
     Or just send me a
-    <a target="_new" href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a>
+    <a target="_blank" href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a>
     right now!
 </p>
