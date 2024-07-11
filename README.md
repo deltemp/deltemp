@@ -68,7 +68,9 @@
                 </a>
             </td>
             <td rowspan="3">
-                <img src="https://github-readme-stats-git-master-deltemps-projects.vercel.app/api/top-langs/?username=deltemp&langs_count=10" alt="Top Languages" title="Top Languages">
+                <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+                    <img src="https://github-readme-stats-git-master-deltemps-projects.vercel.app/api/top-langs/?username=deltemp&langs_count=10" alt="Top Languages" title="Top Languages">
+                </a>
             </td>
         </tr>
         <tr align="center">
