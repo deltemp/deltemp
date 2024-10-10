@@ -281,7 +281,7 @@
     Contact me!
 </h1>
 <p align="left">
-    :mailbox_with_no_mail: How to reach me at
+    :mailbox_with_no_mail: Reach me at
     <a target="_blank" href="mailto:nelson@guerreiro.dev.br">nelson@guerreiro.dev.br</a>
 </p>
 <p align="left">
