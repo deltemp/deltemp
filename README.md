@@ -1,11 +1,8 @@
 <h1>Great to meet you! I'm Nelson, Web Developer.</h1>
 <h3>:heart::floppy_disk::penguin: 20+ yrs of love for coding and cutting edge IT.</h3>
 <br>
-<h1>
-    <img width="32" height="32" src="https://github.com/deltemp/repo/blob/main/svg/terminal.svg">
-    I'm currently working with...
-</h1>
 <br>
+<img src="https://github.com/deltemp/repo/blob/main/svg/working_with.svg">
 <table border="0" cellspacing="10" cellpadding="10">
     <tbody>
         <tr align="center">
@@ -196,14 +193,9 @@
     </tbody>
 </table>
 <br>
+<br>
+<img src="https://github.com/deltemp/repo/blob/main/svg/deploying_with.svg">
 <table border="0" cellspacing="10" cellpadding="10">
-    <thead>
-        <tr>
-            <th colspan="6">
-                <h1>Deploying with...</h1>
-            </th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td>
@@ -272,14 +264,23 @@
                     >
                 </a>
             </td>
+            <td>
+                <a target="_blank" href="https://docs.k8slens.dev/">
+                    <img
+                        width="48"
+                        height="48"
+                        src="https://github.com/deltemp/repo/blob/main/svg/lens.svg"
+                        alt="Lens"
+                        title="Lens"
+                    >
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
 <br>
-<h1>
-    <img width="32" height="32" src="https://github.com/deltemp/repo/blob/main/svg/at.svg">
-    Contact me!
-</h1>
+<br>
+<img src="https://github.com/deltemp/repo/blob/main/svg/contact_me.svg">
 <p align="left">
     :mailbox_with_no_mail: Reach me at
     <a target="_blank" href="mailto:nelson@guerreiro.dev.br">nelson@guerreiro.dev.br</a>
