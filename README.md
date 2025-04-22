@@ -1,15 +1,15 @@
 <h1>Great to meet you! I'm Nelson, Web Developer.</h1>
-<h3>:heart::floppy_disk::penguin: 20+ yrs of love for coding and cutting edge IT.</h3>
+<h3>:heart: :floppy_disk: :penguin: 20+ yrs of love for coding and cutting edge IT.</h3>
 <br>
 <br>
-<img src="https://github.com/deltemp/repo/blob/main/svg/working_with.svg">
+<img src="https://github.com/deltemp/repo/raw/main/svg/working_with.svg">
 <table border="0" cellspacing="10" cellpadding="10">
     <tbody>
-        <tr align="center">
-            <td>
+        <tr align="center" vertical-align="middle">
+            <td align="center" vertical-align="middle">
                 <h1>Front-end</h1>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://react.dev/reference/react">
                     <img
                         width="48"
@@ -18,9 +18,11 @@
                         alt="React"
                         title="React"
                     >
+                    <br />
+                    <span>React</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://laravel-livewire.com/docs/">
                     <img
                         width="48"
@@ -29,9 +31,11 @@
                         alt="Livewire"
                         title="Livewire"
                     >
+                    <br />
+                    <span>Livewire</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://vuejs.org/guide/introduction.html">
                     <img
                         width="48"
@@ -40,9 +44,11 @@
                         alt="Vue.js"
                         title="Vue.js"
                     >
+                    <br />
+                    <span>Vue.js</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://angular.io/docs">
                     <img
                         width="48"
@@ -51,9 +57,11 @@
                         alt="Angular"
                         title="Angular"
                     >
+                    <br />
+                    <span>Angular</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://api.jquery.com/">
                     <img
                         width="48"
@@ -62,6 +70,8 @@
                         alt="jQuery"
                         title="jQuery"
                     >
+                    <br />
+                    <span>jQuery</span>
                 </a>
             </td>
             <td rowspan="3">
@@ -70,11 +80,11 @@
                 </a>
             </td>
         </tr>
-        <tr align="center">
-            <td>
+        <tr align="center" vertical-align="middle">
+            <td align="center" vertical-align="middle">
                 <h1>Styling</h1>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://www.figma.com">
                     <img
                         width="48"
@@ -83,9 +93,11 @@
                         alt="Figma"
                         title="Figma"
                     >
+                    <br />
+                    <span>Figma</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://sass-lang.com/documentation/">
                     <img
                         width="48"
@@ -94,9 +106,11 @@
                         alt="Sass"
                         title="Sass"
                     >
+                    <br />
+                    <span>Sass</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
                     <img
                         width="48"
@@ -105,9 +119,11 @@
                         alt="Bootstrap"
                         title="Bootstrap"
                     >
+                    <br />
+                    <span>Bootstrap</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://tailwindcss.com/docs">
                     <img
                         width="48"
@@ -116,25 +132,29 @@
                         alt="TailwindCSS"
                         title="TailwindCSS"
                     >
+                    <br />
+                    <span>TailwindCSS</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://styled-components.com/docs">
                     <img
                         width="48"
                         height="48"
-                        src="https://github.com/deltemp/repo/blob/main/svg/styled-components-1.svg"
-                        alt="styled components"
-                        title="styled components"
+                        src="https://github.com/deltemp/repo/raw/main/svg/styled-components-1.svg"
+                        alt="styled-components"
+                        title="styled-components"
                     >
+                    <br />
+                    <span>styled-components</span>
                 </a>
             </td>
         </tr>
-        <tr align="center">
-            <td>
+        <tr align="center" vertical-align="middle">
+            <td align="center" vertical-align="middle">
                 <h1>Back-end</h1>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://dev.mysql.com/doc/">
                     <img
                         width="48"
@@ -143,9 +163,11 @@
                         alt="MySQL"
                         title="MySQL"
                     >
+                    <br />
+                    <span>MySQL</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://www.postgresql.org/docs/">
                     <img
                         width="48"
@@ -154,9 +176,11 @@
                         alt="PostgreSQL"
                         title="PostgreSQL"
                     >
+                    <br />
+                    <span>PostgreSQL</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://laravel.com/docs/10.x">
                     <img
                         width="48"
@@ -165,9 +189,11 @@
                         alt="Laravel"
                         title="Laravel"
                     >
+                    <br />
+                    <span>Laravel</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://nodejs.org/en/docs">
                     <img
                         width="48"
@@ -176,9 +202,11 @@
                         alt="Node.js"
                         title="Node.js"
                     >
+                    <br />
+                    <span>Node.js</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://docs.nestjs.com/">
                     <img
                         width="48"
@@ -187,6 +215,8 @@
                         alt="NestJS"
                         title="NestJS"
                     >
+                    <br />
+                    <span>NestJS</span>
                 </a>
             </td>
         </tr>
@@ -194,11 +224,11 @@
 </table>
 <br>
 <br>
-<img src="https://github.com/deltemp/repo/blob/main/svg/deploying_with.svg">
+<img src="https://github.com/deltemp/repo/raw/main/svg/deploying_with.svg">
 <table border="0" cellspacing="10" cellpadding="10">
     <tbody>
         <tr>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://gitlab.com/">
                     <img
                         width="48"
@@ -207,9 +237,11 @@
                         title="GitLab CI/CD"
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
                     >
+                    <br />
+                    <span>GitLab CI/CD</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://github.com">
                     <img
                         width="48"
@@ -218,9 +250,11 @@
                         title="GitHub Actions"
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
                     >
+                    <br />
+                    <span>GitHub Actions</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://developer.hashicorp.com/terraform">
                     <img
                         width="48"
@@ -229,9 +263,11 @@
                         title="Terraform"
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg"
                     >
+                    <br />
+                    <span>Terraform</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://www.docker.com">
                     <img
                         width="48"
@@ -240,20 +276,24 @@
                         title="Docker"
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
                     >
+                    <br />
+                    <span>Docker</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://kubernetes.io/docs/home/">
                     <img
                         width="48"
                         height="48"
-                        alt="kubernetes"
-                        title="kubernetes"
+                        alt="Kubernetes"
+                        title="Kubernetes"
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg"
                     >
+                    <br />
+                    <span>Kubernetes</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://helm.sh/docs/">
                     <img
                         width="48"
@@ -262,17 +302,21 @@
                         alt="Helm"
                         title="Helm"
                     >
+                    <br />
+                    <span>Helm</span>
                 </a>
             </td>
-            <td>
+            <td align="center" vertical-align="middle">
                 <a target="_blank" href="https://docs.k8slens.dev/">
                     <img
                         width="48"
                         height="48"
-                        src="https://github.com/deltemp/repo/blob/main/svg/lens.svg"
+                        src="https://github.com/deltemp/repo/raw/main/svg/lens.svg"
                         alt="Lens"
                         title="Lens"
                     >
+                    <br />
+                    <span>Lens</span>
                 </a>
             </td>
         </tr>
@@ -280,13 +324,13 @@
 </table>
 <br>
 <br>
-<img src="https://github.com/deltemp/repo/blob/main/svg/contact_me.svg">
+<img src="https://github.com/deltemp/repo/raw/main/svg/contact_me.svg">
 <p align="left">
     :mailbox_with_no_mail: Reach me at
     <a target="_blank" href="mailto:nelson@guerreiro.dev.br">nelson@guerreiro.dev.br</a>
 </p>
 <p align="left">
-    <img width="20" height="20" src="https://github.com/deltemp/repo/blob/main/svg/whatsapp.svg">
+    <img width="20" height="20" src="https://github.com/deltemp/repo/raw/main/svg/whatsapp.svg">
     Or just send me a
     <a target="_blank" href="https://wa.me/5514998651969?text=Hi%21%20I%27ve%20found%20you%20on%20GitHub%21">message</a>
     right now!
